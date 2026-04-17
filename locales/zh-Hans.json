@@ -1,0 +1,13 @@
+{
+	"circuitjs1.menu.title": "CircuitJS1",
+	"circuitjs1.menu.open": "打开",
+	"circuitjs1.menu.export": "导出到嘉立创EDA原理图",
+	"circuitjs1.msg.notSchematic": "请先打开原理图文档",
+	"circuitjs1.msg.noCircuit": "没有电路数据。请先打开仿真器并搭建电路。",
+	"circuitjs1.msg.exporting": "正在导出电路到原理图...",
+	"circuitjs1.msg.exportDone": "导出完成！元件已放置。",
+	"circuitjs1.msg.exportFailed": "导出失败",
+	"circuitjs1.msg.searchFailed": "未找到库元件: ",
+	"About": "关于",
+	"EasyEDA extension SDK v": "嘉立创EDA 扩展 SDK v${1}"
+}

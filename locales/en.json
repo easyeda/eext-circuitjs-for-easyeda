@@ -1,0 +1,13 @@
+{
+	"circuitjs1.menu.title": "CircuitJS1",
+	"circuitjs1.menu.open": "Open",
+	"circuitjs1.menu.export": "Export to EasyEDA Schematic",
+	"circuitjs1.msg.notSchematic": "Please open a schematic document first",
+	"circuitjs1.msg.noCircuit": "No circuit data found. Please open the simulator first and build a circuit.",
+	"circuitjs1.msg.exporting": "Exporting circuit to schematic...",
+	"circuitjs1.msg.exportDone": "Export complete! Components placed.",
+	"circuitjs1.msg.exportFailed": "Export failed",
+	"circuitjs1.msg.searchFailed": "Could not find library component for: ",
+	"About": "About",
+	"EasyEDA extension SDK v": "EasyEDA extension SDK v${1}"
+}

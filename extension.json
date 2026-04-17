@@ -1,0 +1,42 @@
+{
+	"name": "circuitjs1-simulator",
+	"uuid": "a3b7c9d1e5f2a4b6c8d0e2f4a6b8c0d2",
+	"displayName": "CircuitJS1 电路仿真器",
+	"description": "在嘉立创EDA专业版中嵌入CircuitJS1电路仿真器，支持一键导出到原理图",
+	"version": "1.4.1",
+	"publisher": "CircuitJS1-EDA",
+	"engines": { "eda": "^3.0.0" },
+	"license": "GPL-2.0",
+	"repository": {
+		"type": "github",
+		"url": ""
+	},
+	"categories": "Schematic",
+	"keywords": ["circuit", "simulator", "simulation", "circuitjs"],
+	"images": { "logo": "./images/logo.png" },
+	"homepage": "",
+	"bugs": "",
+	"activationEvents": {},
+	"entry": "./dist/index",
+	"dependentExtensions": {},
+	"headerMenus": {
+		"home": [
+			{
+				"id": "circuitjs1-home-menu",
+				"title": "circuitjs1.menu.title",
+				"menuItems": [
+					{ "id": "circuitjs1-home-open", "title": "circuitjs1.menu.open", "registerFn": "openSimulator" }
+				]
+			}
+		],
+		"sch": [
+			{
+				"id": "circuitjs1-sch-menu",
+				"title": "circuitjs1.menu.title",
+				"menuItems": [
+					{ "id": "circuitjs1-sch-open", "title": "circuitjs1.menu.open", "registerFn": "openSimulator" }
+				]
+			}
+		]
+	}
+}
