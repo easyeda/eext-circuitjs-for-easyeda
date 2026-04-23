@@ -1,5 +1,5 @@
 {
-	"name": "eext-circuitjs-for-easyeda",
+	"name": "eext-circuitjs1-simulator",
 	"uuid": "a3b7c9d1e5f2a4b6c8d0e2f4a6b8c0d2",
 	"displayName": "CircuitJS1",
 	"description": "CircuitJS1电路仿真器，让你在EDA中进行简单的电路动态效果仿真，支持一键导出到原理图",
@@ -9,13 +9,13 @@
 	"license": "GPL-2.0",
 	"repository": {
 		"type": "github",
-		"url": "https://github.com/easyeda/eext-circuitjs1-for-easyeda"
+		"url": "https://github.com/easyeda/eext-circuitjs1-simulator"
 	},
 	"categories": "Schematic",
 	"keywords": ["circuit", "simulator", "simulation", "circuitjs1"],
 	"images": { "logo": "./images/logo.png" },
-	"homepage": "https://github.com/easyeda/eext-circuitjs1-for-easyeda",
-	"bugs": "https://github.com/easyeda/eext-circuitjs1-for-easyeda/issues",
+	"homepage": "https://github.com/easyeda/eext-circuitjs1-simulator",
+	"bugs": "https://github.com/easyeda/eext-circuitjs1-simulator/issues",
 	"activationEvents": {},
 	"entry": "./dist/index",
 	"dependentExtensions": {},
