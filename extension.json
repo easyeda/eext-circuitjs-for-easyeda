@@ -1,8 +1,8 @@
 {
 	"name": "eext-circuitjs-for-easyeda",
 	"uuid": "a3b7c9d1e5f2a4b6c8d0e2f4a6b8c0d2",
-	"displayName": "CircuitJS1 电路仿真器",
-	"description": "在嘉立创EDA专业版中嵌入CircuitJS1电路仿真器，支持一键导出到原理图",
+	"displayName": "CircuitJS",
+	"description": "CircuitJS电路仿真器，让你在EDA中进行简单的电路动态效果仿真，支持一键导出到原理图",
 	"version": "1.4.1",
 	"publisher": "JLCEDA",
 	"engines": { "eda": "^3.0.0" },
