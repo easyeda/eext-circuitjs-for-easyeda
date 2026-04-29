@@ -23,5 +23,5 @@ Click "Export to LCEDA" in the CircuitJS1 menu bar to automatically place compon
 
 ## References
 
-- Thanks to [pfalstad/circuitjs1](https://github.com/pfalstad/circuitjs1) & [sharpie7/circuitjs1](https://github.com/sharpie7/circuitjs1)
-- [easyeda/circuitjs1-easyeda](https://github.com/easyeda/circuitjs1-easyeda)
+- Thanks to [pfalstad/circuitjs1](https://github.com/pfalstad/circuitjs1) & [sharpie7/circuitjs1](https://github.com/sharpie7/circuitjs1) and all [community contributors](https://github.com/sharpie7/circuitjs1/graphs/contributors)
+- [easyeda/circuitjs1-easyeda](https://github.com/easyeda/circuitjs1-easyeda) fork
