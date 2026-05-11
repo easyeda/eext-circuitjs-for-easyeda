@@ -1,5 +1,7 @@
 # CircuitJS1 Simulator
 
+[中文](./README.md)
+
 A locally embedded CircuitJS1 circuit simulator for EasyEDA Pro.
 
 ## Features

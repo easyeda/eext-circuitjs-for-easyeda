@@ -1,5 +1,7 @@
 # CircuitJS1仿真器
 
+[English](./README.en.md)
+
 在嘉立创EDA专业版中嵌入的本地CircuitJS1电路仿真器。
 
 ## 支持功能
